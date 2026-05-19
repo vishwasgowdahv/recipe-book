@@ -6,7 +6,6 @@ Recipe Book is a modern, full-stack web application built to empower home cooks.
 ## Live Demo
 
 - **Deployment Link:** [https://recipe-api-frontend.netlify.app/](https://recipe-api-frontend.netlify.app/)
-- **Video Demo:** Watch a demo of Recipe Book here: [https://youtu.be/DuWJmsoMgEg](https://youtu.be/DuWJmsoMgEg)
 
 ## Features
 
